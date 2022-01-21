@@ -3,9 +3,8 @@
 </div>
  
 <p align='center'> 
-<a href="https://www.linkedin.com/in/nguyen-khanh-vinh/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/vinhnk2920"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/trinwin.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/qdat.2706"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/dat.2706/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
 <h3> :hatching_chick: Nguyen Quoc Dat    |     💻 Backend Developer    |    🌏 Hanoi, Vietnam </h3> 
@@ -29,5 +28,5 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-![Khanh Vinh's github stats](https://github-readme-stats.vercel.app/api/?username=nqdat2002&show_icons=true&theme=radical) 
+![QUoc Dat's github stats](https://github-readme-stats.vercel.app/api/?username=nqdat2002&show_icons=true&theme=radical) 
 </div>
