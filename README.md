@@ -28,5 +28,5 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-![QUoc Dat's github stats](https://github-readme-stats.vercel.app/api/?username=nqdat2002&show_icons=true&theme=radical) 
+![Quoc Dat's github stats](https://github-readme-stats.vercel.app/api/?username=nqdat2002&show_icons=true&theme=radical) 
 </div>
