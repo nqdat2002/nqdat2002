@@ -8,14 +8,11 @@
 <a href="https://instagram.com/trinwin.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> :hatching_chick: Khanh Vinh Nguyen    |     💻 Backend Developer    |    🌏 Hanoi, Vietnam </h3> 
+<h3> :hatching_chick: Nguyen Quoc Dat    |     💻 Backend Developer    |    🌏 Hanoi, Vietnam </h3> 
 </div>
 
 ### About me 
 - 🌱 Learning `Fullstack Web Development`. 
-- :computer: Working as `Software Engineer`
-- 🤔 Need some help with `technical interview and algorithm`.
-- ⚡ Fun fact: I'm a `dancer and content creator`.
 - 💭 Let's get to know each other 
 
 ### Checkout my Tiktok channel in [Tiktok](https://www.tiktok.com/@datng.quoc)
@@ -24,7 +21,7 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhnk2920&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqdat2002&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -32,5 +29,5 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-![Khanh Vinh's github stats](https://github-readme-stats.vercel.app/api/?username=vinhnk2920&show_icons=true&theme=radical) 
+![Khanh Vinh's github stats](https://github-readme-stats.vercel.app/api/?username=nqdat2002&show_icons=true&theme=radical) 
 </div>
