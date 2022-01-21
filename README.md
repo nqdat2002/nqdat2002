@@ -13,9 +13,9 @@
 ### About me 
 - 🌱 Learning `Backend Web Development`. 
 - 💭 Let's get to know each other 
-
+/*
 ### Checkout my Tiktok channel in [Tiktok](https://www.tiktok.com/@datng.quoc)
-
+*/
 <div align="center">
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
