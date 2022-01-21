@@ -7,11 +7,11 @@
 <a href="https://instagram.com/dat.2706/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> :hatching_chick: Nguyen Quoc Dat    |     💻 Backend Developer    |    🌏 Hanoi, Vietnam </h3> 
+<h3> :hatching_chick: Nguyen Quoc Dat    |     💻 Backend Developer    |    🌏PTIT, Hanoi, Vietnam </h3> 
 </div>
 
 ### About me 
-- 🌱 Learning `Fullstack Web Development`. 
+- 🌱 Learning `Backend Web Development`. 
 - 💭 Let's get to know each other 
 
 ### Checkout my Tiktok channel in [Tiktok](https://www.tiktok.com/@datng.quoc)
