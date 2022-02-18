@@ -11,10 +11,9 @@
 </div>
 
 ### About me 
-- 🌱 Learning `Backend Web Development`. 
+- 🌱 Learning `Front end - Back end Web Development`. 
 - 💭 Let's get to know each other 
 
- ### Checkout my Tiktok channel in [Tiktok](https://www.tiktok.com/) 
 
 <div align="center">
 
