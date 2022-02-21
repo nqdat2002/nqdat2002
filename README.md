@@ -10,10 +10,6 @@
 <h3> :hatching_chick: Nguyen Quoc Dat    |     💻 Learning How to code    |    🌏PTIT, Hanoi, Vietnam </h3> 
 </div>
 
-### About me 
-- 🌱 Learning `Front end - Back end Web Development`. 
-- 💭 Let's get to know each other 
-
 
 <div align="center">
 
