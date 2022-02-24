@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:#F3EB3B;"> Hi guy~ <img src="https://pic.chinesefontdesign.com/uploads/2017/11/chinesefontdesign.com-2017-11-16_10-37-52_166289.gif" width="75px"></h1>
+  <h1 style="color:#F3EB3B;"> Hi guy~ </h1>
 </div>
  
 <p align='center'> 
@@ -7,7 +7,7 @@
 <a href="https://instagram.com/dat.2706/"><img height="40" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> :hatching_chick: Nguyen Quoc Dat    |     💻 Learning How to code    |    🌏PTIT, Hanoi, Vietnam </h3> 
+<h3> :hatching_chick: Nguyen Quoc Dat    |     💻 Learning Code    |    🌏PTIT, Hanoi, Vietnam </h3> 
 </div>
 
 
