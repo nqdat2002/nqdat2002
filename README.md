@@ -8,9 +8,11 @@
 <div align="center">
 <h3> :hatching_chick: Nguyen Quoc Dat    |     💻 Learning Multimedia Technology    |    🌏PTIT, Hanoi, Vietnam </h3> 
 </div>
+
 <div align="center">
-<img src="https://github.com/nqdat2002/nqdat2002/blob/main/giphy.gif">
+  <img height="200" src="https://github.com/nqdat2002/nqdat2002/blob/main/giphy.gif">
 </div>
+
 <div align="center">
 
 
