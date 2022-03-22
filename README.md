@@ -5,12 +5,12 @@
 <p align='center'> 
 <a href="https://facebook.com/qdat.2706"><img height="40" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/dat.2706/"><img height="40" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
-
 <div align="center">
 <h3> :hatching_chick: Nguyen Quoc Dat    |     💻 Learning Multimedia Technology    |    🌏PTIT, Hanoi, Vietnam </h3> 
 </div>
-
-
+<div align="center">
+<img src="https://github.com/nqdat2002/nqdat2002/blob/main/giphy.gif">
+</div>
 <div align="center">
 
 
