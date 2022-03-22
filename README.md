@@ -10,11 +10,10 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://github.com/nqdat2002/nqdat2002/blob/main/giphy.gif">
+    <img height="150" src="https://github.com/nqdat2002/nqdat2002/blob/main/giphy.gif">
 </div>
-
+ 
 <div align="center">
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqdat2002&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
