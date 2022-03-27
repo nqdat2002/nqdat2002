@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <img height="250" src="https://github.com/nqdat2002/nqdat2002/blob/main/giphy.gif">
+    <img height="150" src="https://github.com/nqdat2002/nqdat2002/blob/main/giphy.gif">
 </div>
  
 <div align="center">
