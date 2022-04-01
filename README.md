@@ -1,3 +1,6 @@
+
+ ![](https://komarev.com/ghpvc/?username=nqdat2002&color=blue)
+
 <div align="center">
   <h1 style="color:#F3EB3B;"> Hey guy~ </h1>
 </div>
@@ -20,7 +23,6 @@
 </div>
 
 <div align="center">
-
 
 ![Quoc Dat's github stats](https://github-readme-stats.vercel.app/api/?username=nqdat2002&show_icons=true&theme=radical) 
 </div>
