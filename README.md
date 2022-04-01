@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nqdat2002&color=blue)
 
-[![Mail Badge](https://img.shields.io/badge/-nqdat2002-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngquocdat.work@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-ngquocdat.work-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngquocdat.work@gmail.com)
 
 <div align="center">
   <h1 style="color:#F3EB3B;"> Hey guy~ </h1>
