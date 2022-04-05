@@ -17,7 +17,8 @@
 <div align="center">
     <img height="150" src="https://github.com/nqdat2002/nqdat2002/blob/main/giphy.gif">
 </div>
- 
+## Top Github Stats 🌟
+
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqdat2002&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,6 +30,7 @@
 ![Quoc Dat's github stats](https://github-readme-stats.vercel.app/api/?username=nqdat2002&show_icons=true&theme=radical) 
 </div>
 ## Top Repositories 🌟
+
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nqdat2002&repo=My-Source&show_owner=true&theme=radical"/>
 </div>
