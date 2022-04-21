@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nqdat2002&color=blue)
-
+[![Gurveer's github activity](https://activity-graph.herokuapp.com/graph?username=gurr-i&theme=chartreuse-dark)](https://github.com/gurr-i/github-readme-activity-graph)
 [![Mail Badge](https://img.shields.io/badge/-ngquocdat.work-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngquocdat.work@gmail.com)
 
 <div align="center">
