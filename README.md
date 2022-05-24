@@ -1,8 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nqdat2002&color=blue)
-[![Quoc Dat's github activity](https://activity-graph.herokuapp.com/graph?username=nqdat2002&theme=chartreuse-dark)](https://github.com/nqdat2002/github-readme-activity-graph)
 [![Mail Badge](https://img.shields.io/badge/-ngquocdat.work-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngquocdat.work@gmail.com)
-
 <div align="center">
   <h1 style="color:#F3EB3B;"> Hey guy~ </h1>
 </div>
