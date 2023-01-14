@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=nqdat2002&color=red)
+![](https://komarev.com/ghpvc/?username=nqdat2002&color=blue)
 ## Top Github Stats🌟
 
 
