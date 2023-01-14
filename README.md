@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqdat2002&layout=compact&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqdat2002&layout=compact&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
