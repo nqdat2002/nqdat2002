@@ -6,7 +6,8 @@
 
 <div align="center">
 
-![Quoc Dat's github stats](https://github.com/nqdat2002/github-readme-stats.app/api/?username=nqdat2002&show_icons=true&theme=transparent) 
+![Nguyen Quoc Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nqdat2002&show_icons=true&theme=transparent)
+
 </div>
 <div align="center">
   
